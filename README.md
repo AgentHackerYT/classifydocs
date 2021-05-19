@@ -1,5 +1,7 @@
 # Classify
 - A bot made Agent Hacker#0477 which has 200 + commands to use and is really powerfull
+# Docs 
+- [Click Here](./Docs/MAIN.md) to get redirected to the Documentation
 # Features
 - Music commands
 - Utlilty commands
