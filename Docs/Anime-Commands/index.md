@@ -9,3 +9,8 @@
 - [Wink](./wink.md)
 - [Pat](./pat.md)
 - [Neko](./neko.md)
+- [Poke](./poke.md)
+- [Slap](./slap.md)
+- [Smug](./smug.md)
+- [Tickle](./tickle.md)
+- [What-Anime](./wa.md)
