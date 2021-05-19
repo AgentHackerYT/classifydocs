@@ -1,0 +1,44 @@
+# Classify
+- A bot made Agent Hacker#0477 which has 200 + commands to use and is really powerfull
+# Features
+- Music commands
+- Utlilty commands
+- Giveaway commands
+- Economy System
+- Moderation commands
+- Fortnite Emote commands
+- Anime Commands
+- Server Backup Commands
+- ChatBot
+- Image Generation Commands
+- Animal Pics
+- Information Commands
+- Website ScreenShot feature: =ss (link)
+- Translate feature
+- Vouching System
+- Weather Command
+- Image Search Command
+- Covid19 Info command
+- Reddit subreddit image command
+- Urban Dictionary Command
+- NQN Feature for non Nitro Users
+- Encode-Decode Feature
+- Encode64-Decode64 Feature
+- Youtube Together Feature
+- Betrayal io , fishington , poker in vc feature
+- AI and Multiplayer tictactoe
+- Minesweeper Command
+- Very advance UserInfo command
+- Emojify Text Feature
+- Flip Text Feature
+- Gif search Feature
+- Meme and Joke Feature
+- Among Us eject feature
+- Anime Search Feature
+- What anime feature. Note: Use should insert a link or add an attachment
+- Anime Facts Command
+- and many more Features
+# Credits and Links
+- Made by Agent Hacker#0477
+- Any Question?: [Support Server](https://classifysite.agenthacker.repl.co/server_link.html)
+- Please add my bot to your server
