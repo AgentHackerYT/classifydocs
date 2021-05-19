@@ -5,3 +5,7 @@
 - [Baka(Idiot-in-anime)](./baka.md)
 - [Karma](./karma.md)
 - [Kiss](./kiss.md)
+- [Hug](./hug.md)
+- [Wink](./wink.md)
+- [Pat](./pat.md)
+- [Neko](./neko.md)
