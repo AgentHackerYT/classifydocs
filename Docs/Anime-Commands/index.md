@@ -2,7 +2,7 @@
 - Developer's Fact: I dont know much about anime
 - [Search-anime](./Search-Anime.md)
 - [Anime-Fact](./Anime-Fact.md)
-- [Baka(Idiot-in-anime)](./baka.md)
+- [Baka](./baka.md)
 - [Karma](./karma.md)
 - [Kiss](./kiss.md)
 - [Hug](./hug.md)
@@ -14,3 +14,4 @@
 - [Smug](./smug.md)
 - [Tickle](./tickle.md)
 - [What-Anime](./wa.md)
+- [Next-Page(Info-Commands)](../Info-Commands/MAIN.md)
