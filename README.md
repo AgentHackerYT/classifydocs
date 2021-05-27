@@ -1,7 +1,18 @@
-# Classify
-- A bot made Agent Hacker#0477 which has 200 + commands to use and is really powerfull
-# Docs 
-- [Click Here](./Docs/MAIN.md) to get redirected to the Documentation
+# Classify ✨
+- Why Should You invite Classify?
+- You should invite classify as it is an multipurpose bot and you wont need millions of bots in your server!
+# Docs 📑
+- [Click Here](./Docs/MAIN.md) to get redirected to the Documentation currently under development
+## Categories 📑
+- [x] Music & Filter
+- [x] Fun
+- [x] Anime
+- [x] Moderation
+- [x] Server Backup
+- [x] Giveaway commands
+- [x] Utility
+- [X] Image
+- [X] ChatBot
 # Features
 - Music commands
 - Utlilty commands
